@@ -67,9 +67,7 @@
             "KK Lama",
             "Surat Kelahiran / Surat Pindah Datang",
             "Surat Kematian (jika meninggal)"
-          ]
-        },
-        "Penghapusan dan Penambahan Data": {
+          ],
           "steps": [
             "Verifikasi dokumen dasar",
             "Update database desa",
