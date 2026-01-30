@@ -6,7 +6,7 @@
   "layananInfo": {
     "title": "Layanan Informasi",
     "description": "Butuh bantuan atau informasi pelayanan? Hubungi nomor resmi desa kami (Chat Only).",
-    "phoneDisplay": 8123456789,
+    "phoneDisplay": "08123456789",
     "waLink": "wa.me/628123456789"
   },
   "mediaSosial": {
