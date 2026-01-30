@@ -1,0 +1,161 @@
+{
+  "sejarah": {
+    "image": "https://wsrv.nl/?url=https://drive.google.com/thumbnail?sz=w1200%26id=1p2RI1rUky_V1NWyZF8z-DYK5XQwwOGvo",
+    "title": "Sejarah Desa",
+    "content": [
+      "Pada sekitar tahun 1912, wilayah Boyolali masih berada di bawah Kasunanan Surakarta dan di daerah Karanggede dibentuk tiga kademangan, yaitu Kademangan Jatitengah, Klodran, dan Blimbing. Kademangan Jatitengah dipimpin oleh Demang Gito Saronto (1912–1924) dengan wilayah bawahan beberapa dukuh, termasuk Karangkepoh.",
+      "Sekitar tahun 1914, nama Kademangan Jatitengah diubah menjadi Kademangan Karangkepoh karena banyaknya pohon kepoh di wilayah tersebut. Setelah Demang Gito Saronto wafat, kepemimpinan dilanjutkan oleh Demang Karto Diwongso pada tahun 1924–1943.,",
+      "Pada tahun 1943, sistem pemerintahan kademangan diganti menjadi kalurahan dan dilakukan pemilihan lurah yang dimenangkan oleh Gito Diwiryo sebagai Lurah pertama (1943–1948). Tahun 1950, Mitro Wijoyo diangkat menjadi Lurah setelah berhasil menangkap pencuri yang meresahkan warga, memindahkan pusat pemerintahan ke Dukuh Lemahmendak."
+    ]
+  },
+  "visiMisi": {
+    "visi": "Tetap Bersama Membangun Desa Karangkepoh",
+    "misi": [
+      "Membangun sinergitas Aparatur Pemerintah Desa Karangkepoh yang berfungsi sebagai pelayan masyarakat, berdaya guna, produktif, transparan, bersih dan professional.",
+      "Membangun Perilaku masyarakat Desa Karangkepoh yang sesuai dengan ajaran agama dan kepercayaannya.",
+      "Membangun tingkat partisipasi masyarakat dalam perencanaan dan pelaksanaan Pemerintahan, Pembangunan dan Kemasyarakatan.",
+      "Membangun serta Mewujudkan Desa Karangkepoh yang mandiri dengan mensupport berjalannya BUMDesa.",
+      "Membangun serta Mewujudkan Desa Karangkepoh yang Maju dibidang Pendidikan, Kesehatan, pertanian dan perdagangan.",
+      "Meningkatkan upaya pemerataan pembangunan sehingga menjadikan seluruh wilayah Desa Karangkepoh maju dan berkembang.",
+      "Memberikan kemudahan ijin dan penyediaan lahan industri kepada investor untuk berinvestasi di Desa Karangkepoh."
+    ]
+  },
+  "perangkatDesa": {
+    "struktural": [
+      {
+        "name": "Sutarto",
+        "jabatan": "Kepala Desa",
+        "image": "",
+        "isPrimary": true
+      },
+      {
+        "name": "Achmad Kurniawan",
+        "jabatan": "Sekretaris Desa",
+        "image": ""
+      },
+      {
+        "name": "Esther Evayani",
+        "jabatan": "Kasi Pemerintahan",
+        "image": ""
+      },
+      {
+        "name": "Ramelan",
+        "jabatan": "Kasi Kesejahteraan & Pelayanan",
+        "image": ""
+      },
+      {
+        "name": "Erny Yuliyanti",
+        "jabatan": "Kaur Umum & Perencanaan",
+        "image": ""
+      },
+      {
+        "name": "Suwarno",
+        "jabatan": "Kaur Keuangan",
+        "image": ""
+      }
+    ],
+    "wilayah": [
+      {
+        "name": "Joko Santoso",
+        "jabatan": "Kadus I",
+        "image": ""
+      },
+      {
+        "name": "Suyono",
+        "jabatan": "Kadus II",
+        "image": ""
+      },
+      {
+        "name": "Tri Hartono",
+        "jabatan": "Kadus III",
+        "image": ""
+      },
+      {
+        "name": "Esther Evayani",
+        "jabatan": "Kadus IV",
+        "image": ""
+      }
+    ]
+  },
+  "geografis": {
+    "description": "Desa Karangkepoh merupakan salah satu desa di Kecamatan Karanggede, Kabupaten Boyolali, dengan luas wilayah 276,16 Ha. Wilayah ini terbagi menjadi 4 Dusun, 5 RW, dan 21 RT dengan topografi yang mendukung sektor pertanian dan pemukiman.",
+    "batasWilayah": [
+      {
+        "arah": "Utara",
+        "desa": "Desa Dologan",
+        "icon": "arrow-up"
+      },
+      {
+        "arah": "Selatan",
+        "desa": "Desa Pengkol",
+        "icon": "arrow-down"
+      },
+      {
+        "arah": "Timur",
+        "desa": "Desa Klego (Kec. Klego)",
+        "icon": "arrow-right"
+      },
+      {
+        "arah": "Barat",
+        "desa": "Desa Sendang",
+        "icon": "arrow-left"
+      }
+    ],
+    "penggunaanLahan": [
+      {
+        "label": "Sawah (Irigasi & Tadah Hujan)",
+        "luas": 115.1,
+        "percent": 41.687794277435714,
+        "colorClass": "bg-desa-primary"
+      },
+      {
+        "label": "Pekarangan / Bangunan",
+        "luas": 103.8,
+        "percent": 37.595074248460705,
+        "colorClass": "bg-orange-400"
+      },
+      {
+        "label": "Tegal / Kebun",
+        "luas": 43.7,
+        "percent": 15.827598696124594,
+        "colorClass": "bg-blue-400"
+      },
+      {
+        "label": "Fasilitas Umum & Sosial",
+        "luas": 13.5,
+        "percent": 4.889532777978993,
+        "colorClass": "bg-purple-400"
+      }
+    ]
+  },
+  "demografis": {
+    "penduduk": {
+      "total": 2696,
+      "kk": 925,
+      "dusun": 4,
+      "note": "Rasio gender seimbang (±50:50)"
+    },
+    "ekonomi": [
+      {
+        "sector": "Pertanian & Perkebunan",
+        "percent": 45,
+        "colorClass": "bg-green-500"
+      },
+      {
+        "sector": "Industri & Swasta",
+        "percent": 35,
+        "colorClass": "bg-blue-500"
+      },
+      {
+        "sector": "Wiraswasta & Perdagangan",
+        "percent": 20,
+        "colorClass": "bg-orange-400"
+      }
+    ],
+    "sdm": [
+      "Mayoritas penduduk telah menuntaskan program Wajib Belajar 9 Tahun (SD & SMP).",
+      "Tingkat partisipasi pendidikan menengah (SMA/SMK) terus meningkat setiap tahunnya.",
+      "Terdapat sarana pendidikan lengkap mulai dari PAUD, TK, SD, hingga MTs di dalam desa."
+    ]
+  }
+}
