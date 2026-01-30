@@ -1,0 +1,47 @@
+{
+  "hero": {
+    "title": "Hubungi Kami",
+    "description": "Saluran informasi dan komunikasi resmi Pemerintah Desa Karangkepoh."
+  },
+  "layananInfo": {
+    "title": "Layanan Informasi",
+    "description": "Butuh bantuan atau informasi pelayanan?...",
+    "phoneDisplay": "",
+    "waLink": ""
+  },
+  "mediaSosial": {
+    "title": "Ikuti Media Sosial",
+    "description": "Dapatkan update kegiatan...",
+    "items": [
+      {
+        "name": "Instagram",
+        "url": "https://instagram.com",
+        "icon": "fab fa-instagram",
+        "colorClass": "hover:border-pink-600 hover:text-pink-600 hover:bg-pink-50"
+      },
+      {
+        "name": "Youtube",
+        "url": "https://youtube.com",
+        "icon": "fab fa-youtube",
+        "colorClass": "hover:border-red-600 hover:text-red-600 hover:bg-red-50"
+      }
+    ]
+  },
+  "kantorDesa": {
+    "title": "Kantor Kepala Desa Karangkepoh",
+    "subtitle": "Pusat Pelayanan Administratif",
+    "address": "",
+    "email": "",
+    "jamKerja": [
+      {
+        "hari": "Senin-Kamis",
+        "jam": ""
+      },
+      {
+        "hari": "Jumat",
+        "jam": ""
+      }
+    ],
+    "mapUrl": ""
+  }
+}
