@@ -62,12 +62,14 @@
             "Cetak KK Baru"
           ]
         },
-        "Penghapusan dan Penambahan Data": {
+        "Penambahan dan Penghapusan Data": {
           "docs": [
             "KK Lama",
             "Surat Kelahiran / Surat Pindah Datang",
             "Surat Kematian (jika meninggal)"
-          ],
+          ]
+        },
+        "Penghapusan dan Penambahan Data": {
           "steps": [
             "Verifikasi dokumen dasar",
             "Update database desa",
