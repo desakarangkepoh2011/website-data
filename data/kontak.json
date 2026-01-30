@@ -15,7 +15,7 @@
     "items": [
       {
         "name": "Instagram",
-        "url": "https://instagram.com",
+        "url": "https://www.instagram.com/desa.karangkepoh/",
         "icon": "fab fa-instagram",
         "colorClass": "hover:border-pink-600 hover:text-pink-600 hover:bg-pink-50"
       },
