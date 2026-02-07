@@ -7,6 +7,24 @@
     "title": "Kabar Desa",
     "items": [
       {
+        "id": 3,
+        "title": "Berita 3",
+        "date": "",
+        "author": "",
+        "category": "",
+        "img": "",
+        "body": ""
+      },
+      {
+        "id": 2,
+        "title": "Berita 2",
+        "date": "",
+        "author": "",
+        "category": "",
+        "img": "",
+        "body": ""
+      },
+      {
         "id": 1,
         "title": "Mahasiswa UNNES GIAT 15 Mulai Program Pengabdian di Desa Karangkepoh",
         "date": "2026-01-31T17:00:00.000Z",
