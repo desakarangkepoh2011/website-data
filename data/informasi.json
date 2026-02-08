@@ -21,6 +21,15 @@
     "title": "Pengumuman & Undangan",
     "items": [
       {
+        "id": 2,
+        "title": "PENGAJIAN SADRANAN LEMAH MENDAK",
+        "date": "",
+        "type": "",
+        "desc": "",
+        "linkUrl": "",
+        "linkText": ""
+      },
+      {
         "id": 1,
         "title": "[COMING SOON] Launch Website Desa Karangkepoh",
         "date": "2026-01-31T17:00:00.000Z",
