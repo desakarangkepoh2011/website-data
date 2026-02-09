@@ -40,15 +40,5 @@
       }
     ]
   },
-  "media": {
-    "items": [
-      {
-        "id": "#VALUE!",
-        "title": "",
-        "date": "",
-        "img": "",
-        "link": ""
-      }
-    ]
-  }
+  "#REF!": ""
 }
