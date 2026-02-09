@@ -40,5 +40,17 @@
       }
     ]
   },
-  "#REF!": ""
+  "media": {
+    "items": [
+      {
+        "id": "",
+        "title": "",
+        "date": "",
+        "type": "",
+        "desc": "",
+        "linkUrl": "",
+        "linkText": ""
+      }
+    ]
+  }
 }
