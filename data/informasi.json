@@ -46,10 +46,8 @@
         "id": "",
         "title": "",
         "date": "",
-        "type": "",
-        "desc": "",
-        "linkUrl": "",
-        "linkText": ""
+        "img": "",
+        "link": ""
       }
     ]
   }
