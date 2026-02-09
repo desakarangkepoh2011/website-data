@@ -21,23 +21,24 @@
     "title": "Pengumuman & Undangan",
     "items": [
       {
-        "id": "",
-        "title": "",
-        "date": "",
-        "type": "",
-        "desc": "",
-        "linkUrl": "",
-        "linkText": ""
+        "id": 2,
+        "title": "PENGAJIAN SADRANAN LEMAHMENDAK",
+        "date": "2026-02-13T17:00:00.000Z",
+        "type": "Kegiatan",
+        "desc": "Pengajian sadranan Makam Lemahmendak 14 Februari 2026 pukul 08.00 WIB",
+        "linkUrl": "https://drive.google.com/file/d/1QBMuVW4D2VLVxEr1Llpfm7Jsa5c9BWWK/view?usp=drive_link",
+        "linkText": "Lihat di sini"
       },
       {
-        "id": "",
-        "title": "",
-        "date": "",
-        "type": "",
-        "desc": "",
+        "id": 1,
+        "title": "[COMING SOON] Launch Website Desa Karangkepoh",
+        "date": "2026-01-31T17:00:00.000Z",
+        "type": "Informasi",
+        "desc": "Pemerintah Desa Karangkepoh bekerja sama dengan mahasiswa UNNES GIAT 15 dalam pembuatan Website Informasi Desa. Website ini dihadirkan untuk mempermudah akses informasi dan layanan bagi masyarakat.",
         "linkUrl": "",
         "linkText": ""
       }
     ]
-  }
+  },
+  "#REF!": ""
 }
