@@ -35,7 +35,8 @@
           "steps": [
             "Pemohon meminta pengantar RT/RW",
             "Verifikasi berkas di Kantor Desa",
-            "Penyusunan draft KK Baru",
+            "Penyusunan draft KK Baru(Form dari Desa)",
+            "Pengajuan melalui Operator/ Disdukcapil",
             "Proses cetak di Kecamatan/Disdukcapil"
           ]
         },
